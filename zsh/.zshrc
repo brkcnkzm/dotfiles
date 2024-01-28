@@ -74,4 +74,6 @@ export NVM_DIR="$HOME/.config/nvm"
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
+eval "$(navi widget zsh)"
+
 [ -f "/Users/burak/.ghcup/env" ] && source "/Users/burak/.ghcup/env" # ghcup-env
