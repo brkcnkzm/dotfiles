@@ -1,5 +1,6 @@
 import:
- - ~/.config/alacritty/themes/gruvbox.yaml
+  - ~/.config/alacritty/themes/nightfox.yaml
+  - ~/.config/alacritty/keybindings.yml
 font:
   normal:
     family: Hurmit Nerd Font
